@@ -1,3 +1,3 @@
-# Workfiles_Analytics_Vidhya
+# Workfiles_Analytics_Vidhya_Mysql
 Solutions to assigned tasks at Analytics Vidhya.
 As per the requirement of the role as a data scientist intern, uploaded are the workfiles for various files including Ms-Excel , Mysql , Python , EDA and Machine Learning.
